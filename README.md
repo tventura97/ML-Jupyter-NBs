@@ -1,1 +1,1 @@
-# ML-Jupyter-NB-s
+# Machine Learning Jupyter Notebooks - Fall 2018
