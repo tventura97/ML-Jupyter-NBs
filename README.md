@@ -1,3 +1,3 @@
 # ML-Jupyter-NBs
 
-Machine Learning Exercises
+Machine Learning Exercises for ECE 445
